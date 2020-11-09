@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Projet</string>
+    <string name="circle_name">Cercle</string>
+    <string name="anko_name">Anko</string>
+    <string name="list_name">Version Android</string>
+    <string name="numberpicker_name">NumberPicker</string>
+
+    <string name="navigation_drawer_open">Ouvrir le menu</string>
+    <string name="navigation_drawer_close">Fermer le menu</string>
+
+    <string name="action_close">Fermer</string>
+    <string name="title_activity_test">Test</string>
+
+    <string-array name="androidVersionName" translatable="false">
+        <item>Allemand</item>
+        <item>Beagle</item>
+        <item>Golden</item>
+        <item>Husky</item>
+        <item>Jack</item>
+        <item>Labrador</item>
+        <item>Yorkshire</item>
+    </string-array>
+
+</resources>
