@@ -8,7 +8,7 @@
 4. [Technologies](#Technologies)
 5. [Contenu](#Contenu)
 
-##Introduction
+## Introduction
 
 Cette application mobile a pour but d'aider les utilisateurs à trouver le meilleur animal de compagnie en 
 les aidant à comprendre les différentes races qu'il existent et les comportements de chaques chiens ou chats.
@@ -29,8 +29,8 @@ Le projet sera dans sa dernière étape et pourra toujours être modifié par la
 * Kotlin 1.4 Online Event
 * emulateur android 
 
-##Contenu
+## Contenu
 
 Animalski à commencé a être développé le lundi 2 novembre 2020
 
-screen du menu + explication
+Ajouter : screen du menu + explication
