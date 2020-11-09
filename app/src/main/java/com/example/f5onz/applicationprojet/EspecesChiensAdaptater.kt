@@ -7,7 +7,7 @@ import android.view.View
 import android.view.ViewGroup
 import kotlinx.android.synthetic.main.item_android_version.view.*
 
-class AndroidVersionAdapter(val items: Array<Especeschiens>) : RecyclerView.Adapter<AndroidVersionAdapter.ViewHolder>() {
+class EspecesChiensAdaptater(val items: Array<Especeschiens>) : RecyclerView.Adapter<EspecesChiensAdaptater.ViewHolder>() {
 
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {
         holder.bindAndroidVersion(items[position])

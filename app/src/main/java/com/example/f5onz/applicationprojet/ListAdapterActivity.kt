@@ -15,7 +15,7 @@ class ListAdapterActivity : AppCompatActivity() {
         supportActionBar!!.setDisplayHomeAsUpEnabled(true)
         voirEspeceschiens()
         androidVersionRecyclerView.layoutManager = LinearLayoutManager(this)
-        androidVersionRecyclerView.adapter = AndroidVersionAdapter(ChiensList)
+        androidVersionRecyclerView.adapter = EspecesChiensAdaptater(ChiensList)
     }
 
     private fun voirEspeceschiens() {
