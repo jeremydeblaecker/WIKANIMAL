@@ -18,7 +18,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".ListAdapterActivity"
+            android:name=".ListAdapterChiens"
             android:label="@string/list_name"
             android:parentActivityName=".MainActivity">
             <meta-data

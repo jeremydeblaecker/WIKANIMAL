@@ -5,7 +5,7 @@ import android.os.Bundle
 import android.support.v7.widget.LinearLayoutManager
 import kotlinx.android.synthetic.main.content_list_adapter.*
 
-class ListAdapterActivity : AppCompatActivity() {
+class ListAdapterChiens : AppCompatActivity() {
 
     var ChiensList = Array<Especeschiens>(7, { Especeschiens("???", 0) })
 
@@ -19,7 +19,7 @@ class ListAdapterActivity : AppCompatActivity() {
     }
 
     private fun voirEspeceschiens() {
-        var nameArray = resources.getStringArray(R.array.androidVersionName)
+        var nameArray = resources.getStringArray(R.array.especeChiens)
         val imgArray = arrayOf(R.drawable.allemand, R.drawable.beagle, R.drawable.golden, R.drawable.husky, R.drawable.jack, R.drawable.labrador, R.drawable.yorkshire)
         for (i in 0..(nameArray.size-1))
             ChiensList[i] = Especeschiens(nameArray[i], imgArray[i])

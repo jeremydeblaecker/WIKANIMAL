@@ -2,23 +2,16 @@ package com.example.f5onz.applicationprojet
 
 import android.content.Intent
 import android.os.Bundle
-import android.support.design.widget.Snackbar
 import android.support.design.widget.NavigationView
 import android.support.v4.view.GravityCompat
 import android.support.v7.app.ActionBarDrawerToggle
 import android.support.v7.app.AppCompatActivity
 import android.view.Menu
 import android.view.MenuItem
-import android.widget.NumberPicker
 import com.example.f5onz.applicationprojet.tool.replace
 import kotlinx.android.synthetic.main.activity_main.*
 import kotlinx.android.synthetic.main.app_bar_main.*
 import org.jetbrains.anko.*
-import kotlinx.android.synthetic.main.fragment_main.*
-import kotlinx.android.synthetic.main.fragment_main.view.*
-
-
-
 
 class MainActivity : AppCompatActivity(), AnkoLogger, NavigationView.OnNavigationItemSelectedListener {
 
@@ -65,7 +58,7 @@ class MainActivity : AppCompatActivity(), AnkoLogger, NavigationView.OnNavigatio
         when (item.itemId) {
 
             R.id.chien -> {
-                val intent = Intent(this@MainActivity, ListAdapterActivity::class.java)
+                val intent = Intent(this@MainActivity, ListAdapterChiens::class.java)
                 startActivity(intent)
             }
 

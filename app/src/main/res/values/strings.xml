@@ -11,7 +11,7 @@
     <string name="action_close">Fermer</string>
     <string name="title_activity_test">Test</string>
 
-    <string-array name="androidVersionName" translatable="false">
+    <string-array name="especeChiens" translatable="false">
         <item>Allemand</item>
         <item>Beagle</item>
         <item>Golden</item>
