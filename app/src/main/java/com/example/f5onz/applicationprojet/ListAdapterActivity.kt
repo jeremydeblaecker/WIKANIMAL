@@ -13,12 +13,12 @@ class ListAdapterActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_list_adapter)
         supportActionBar!!.setDisplayHomeAsUpEnabled(true)
-        seedAndroidVersionList()
+        voirEspeceschiens()
         androidVersionRecyclerView.layoutManager = LinearLayoutManager(this)
         androidVersionRecyclerView.adapter = AndroidVersionAdapter(ChiensList)
     }
 
-    private fun seedAndroidVersionList() {
+    private fun voirEspeceschiens() {
         var nameArray = resources.getStringArray(R.array.androidVersionName)
         val imgArray = arrayOf(R.drawable.allemand, R.drawable.beagle, R.drawable.golden, R.drawable.husky, R.drawable.jack, R.drawable.labrador, R.drawable.yorkshire)
         for (i in 0..(nameArray.size-1))
