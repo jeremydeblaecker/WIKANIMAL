@@ -42,6 +42,7 @@ class MainActivity : AppCompatActivity(), AnkoLogger, NavigationView.OnNavigatio
         return true
     }
 
+    //Menu superieur
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
 
         when (item.itemId) {
@@ -53,14 +54,26 @@ class MainActivity : AppCompatActivity(), AnkoLogger, NavigationView.OnNavigatio
         return true
     }
 
+    //Bouton menu cote
     override fun onNavigationItemSelected(item: MenuItem): Boolean {
-        //Navigation menu
+        //Navigation dans le menu
         when (item.itemId) {
 
             R.id.chien -> {
                 val intent = Intent(this@MainActivity, ListAdapterChiens::class.java)
                 startActivity(intent)
             }
+
+            R.id.anim -> {
+                val intent = Intent(this@MainActivity, MesAnimaux::class.java)
+                startActivity(intent)
+            }
+
+            R.id.nav_anko -> {
+                val intent = Intent(this@MainActivity, ListAdapterChiens::class.java)
+                startActivity(intent)
+            }
+
 
         }
 

@@ -9,6 +9,10 @@
             android:icon="@drawable/ic_menu_version"
             android:title="Espece de chiens" />
         <item
+            android:id="@+id/anim"
+            android:icon="@drawable/ic_baseline_emoji_people_24"
+            android:title="Mes animaux" />
+        <item
             android:id="@+id/nav_anko"
             android:icon="@drawable/ic_menu_anko"
             android:title="Favoris" />

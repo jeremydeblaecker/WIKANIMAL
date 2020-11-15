@@ -1,8 +1,11 @@
 package com.example.f5onz.applicationprojet
 
+import android.content.Intent
 import android.support.annotation.LayoutRes
+import android.support.v4.content.ContextCompat.startActivity
 import android.support.v7.widget.RecyclerView
 import android.view.LayoutInflater
+import android.view.MenuItem
 import android.view.View
 import android.view.ViewGroup
 import kotlinx.android.synthetic.main.item_android_version.view.*
@@ -32,4 +35,7 @@ class EspecesChiensAdaptater(val items: Array<Especeschiens>) : RecyclerView.Ada
     fun ViewGroup.inflate(@LayoutRes layoutRes: Int, attachToRoot: Boolean = false): View {
         return LayoutInflater.from(context).inflate(layoutRes, this, attachToRoot)
     }
+
+
+
 }

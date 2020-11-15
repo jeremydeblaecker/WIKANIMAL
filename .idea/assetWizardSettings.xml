@@ -3,6 +3,11 @@
   <component name="WizardSettings">
     <option name="children">
       <map>
+        <entry key="imageWizard">
+          <value>
+            <PersistentState />
+          </value>
+        </entry>
         <entry key="vectorWizard">
           <value>
             <PersistentState>
@@ -18,7 +23,7 @@
                                 <PersistentState>
                                   <option name="values">
                                     <map>
-                                      <entry key="url" value="file:/$PROJECT_DIR$/../../Android/icons/material/materialicons/favorite/baseline_favorite_24.xml" />
+                                      <entry key="url" value="file:/$PROJECT_DIR$/../../Android/icons/material/materialicons/emoji_people/baseline_emoji_people_24.xml" />
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -28,8 +33,7 @@
                         </option>
                         <option name="values">
                           <map>
-                            <entry key="color" value="881923" />
-                            <entry key="outputName" value="ic_baseline_favorite_24" />
+                            <entry key="outputName" value="ic_baseline_emoji_people_24" />
                             <entry key="sourceFile" value="E:\Andoid\WIKANIMAL" />
                           </map>
                         </option>
