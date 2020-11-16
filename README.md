@@ -39,12 +39,12 @@ Le projet sera dans sa dernière étape et pourra toujours être modifié par la
 * Emulateur android 
 
 ## Contenu
-
-Wikanimal à commencé a être développé le lundi 2 novembre 2020
-<img src="https://github.com/jeremydeblaecker/WIKANIMAL/blob/master/Capture.JPG"
-/>
+<img src="https://github.com/jeremydeblaecker/WIKANIMAL/blob/master/Capture.JPG"/>
+<br>
 <img src="https://github.com/jeremydeblaecker/WIKANIMAL/blob/master/Capture1.JPG"/>
+<br>
 <img src="https://github.com/jeremydeblaecker/WIKANIMAL/blob/master/Capture2.JPG"/>
+<br>
 <img src="https://github.com/jeremydeblaecker/WIKANIMAL/blob/master/Capture3.JPG"/>
 
 ## A venir
