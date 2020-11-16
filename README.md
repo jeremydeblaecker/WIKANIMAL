@@ -41,7 +41,8 @@ Le projet sera dans sa dernière étape et pourra toujours être modifié par la
 ## Contenu
 
 Wikanimal à commencé a être développé le lundi 2 novembre 2020
-<img src="https://raw.github.com/WIKANIMAL/Capture.JPG"/>
+<img src="https://raw.github.com/WIKANIMAL/Capture.JPG"
+/>
 <img src="https://raw.github.com/Wikanimal/Capture1.JPG"/>
 <img src="https://raw.github.com/Wikanimal/Capture2.JPG"/>
 <img src="https://raw.github.com/Wikanimal/Capture3.JPG"/>
