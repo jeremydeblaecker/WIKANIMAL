@@ -39,12 +39,16 @@ Le projet sera dans sa dernière étape et pourra toujours être modifié par la
 * Emulateur android 
 
 ## Contenu
+<p>Page d'accueil </p>
 <img src="https://github.com/jeremydeblaecker/WIKANIMAL/blob/master/Capture.JPG"/>
 <br>
+<p>Menu</p>
 <img src="https://github.com/jeremydeblaecker/WIKANIMAL/blob/master/Capture1.JPG"/>
 <br>
+<p>Différente espèces</p>
 <img src="https://github.com/jeremydeblaecker/WIKANIMAL/blob/master/Capture2.JPG"/>
 <br>
+<p>Mes animaux</p>
 <img src="https://github.com/jeremydeblaecker/WIKANIMAL/blob/master/Capture3.JPG"/>
 
 ## A venir
