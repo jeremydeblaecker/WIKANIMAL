@@ -59,3 +59,9 @@ Le projet sera dans sa dernière étape et pourra toujours être modifié par la
     * Numéro d'identification de l'animal
     * Position de la puce
     * Nom du vétérinaire
+2. Différentes espèces d'animaux :
+    * Ajouter des informations sur les animaux 
+    * Configurer l'extend avec les infos des animaux
+    * Ajouter un bouton favoris
+3. Page des favoris :
+    * Lier les espèces d'animaux favoris à cette page
