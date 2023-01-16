@@ -1,4 +1,4 @@
-# Wikanimal
+# WikAnimal
 
 ## Table des matières
 
